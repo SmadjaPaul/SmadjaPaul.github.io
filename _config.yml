@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Smadja Paul"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/profil.jpg
   bio              : "Word, word, word"
   location         : "Paris"
   email            :
